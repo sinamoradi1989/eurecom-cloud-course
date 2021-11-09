@@ -15,4 +15,4 @@ def randomvalues(n):
     return jsonify(result)
 
 if __name__ == '__main__':
-    application.run(debug=True)
+    application.run('localhost', 5000,debug=True)
