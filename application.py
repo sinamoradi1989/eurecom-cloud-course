@@ -22,4 +22,6 @@
     
 # #     application.debug = True
 # #     application.run(port=5000)
-print('hellooo world')
+
+if __name__ == '__main__':
+    return 'hellooo world'
