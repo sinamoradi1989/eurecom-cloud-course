@@ -18,10 +18,4 @@ if __name__ == '__main__':
     
     application.run(debug=True)
 
-#     application.run('127.0.0.1', port=5000, debug=True)
-    
-#     application.debug = True
-#     application.run(port=5000)
 
-# if __name__ == '__main__':
-#     return 'hellooo world'
