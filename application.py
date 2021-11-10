@@ -16,9 +16,9 @@ def randomvalues(n):
 
 if __name__ == '__main__':
     
-    application.run(debug=True)
+#     application.run(debug=True)
 
-#     application.run('localhost', port=5000, debug=True)
+    application.run('localhost', port=5000, debug=True)
     
 #     application.debug = True
 #     application.run(port=5000)
